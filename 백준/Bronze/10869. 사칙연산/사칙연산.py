@@ -1,0 +1,8 @@
+inp = input()
+spl = inp.split()
+a, b = int(spl[0]), int(spl[1])
+print(a+b)
+print(a-b)
+print(a*b)
+print(int(a/b))
+print(a%b)
