@@ -1,2 +1,2 @@
 # CodingTest
-###### 主にPythonで解きます。
+###### 主にPython、Javaで解きます。
