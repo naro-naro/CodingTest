@@ -1,0 +1,6 @@
+num = input()
+num_list = num.split()
+a = int(num_list[0])
+b = int(num_list[1])
+c = int(num_list[2])
+print(a+b+c)
